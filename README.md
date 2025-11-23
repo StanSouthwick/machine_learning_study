@@ -1,0 +1,1 @@
+This is a repository of my practical studies learning Machine Leaning algorithms. Over the course of the next two years I will be studying my MSc AI and multiple certifications and will be using this to hold multiple projects that I build along the way
